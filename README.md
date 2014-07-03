@@ -7,6 +7,5 @@ In this course we will explore different learning algorithms in the context of b
 
 ### References and Further Reading 
 
-machinelearningmastery.com/a-tour-of-machine-learning-algorithms
-
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/?imm_mid=0bf394&cmp=em-strata-na-na-newsltr_20140702_elist
 
